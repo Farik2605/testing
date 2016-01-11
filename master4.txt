@@ -1,2 +1,1 @@
-Master File.
-Commit 4.asd
+.gitignore
