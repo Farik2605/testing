@@ -1,5 +1,9 @@
 Master Main File
 Master Data 1. Commit 1. Was changed throw commit 3.
+
+style 1 = 10;
+style 2 = 75;
+I hope this message wouldn't lost.
 I put some data here cause I need to finish damm task.
 and Another.
 And another.
