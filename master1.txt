@@ -1,2 +1,8 @@
 Master Main File
 Master Data 1. Commit 1. Was changed throw commit 3.
+I put some data here cause I need to finish damm task.
+and Another.
+And another.
+x = 5;
+y = 7;
+return x*y == 35;
